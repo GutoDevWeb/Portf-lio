@@ -24,9 +24,9 @@ Responsividade mínima (desktop e mobile)
 
 # 🚀 Publicação 
 
-Pode ser publicada pelo GitHub Pages através das configurações do repositório.
+https://gutodevweb.github.io/Portf-olio/
 
-# Tecnologias:
+# 👨‍💻 Tecnologias
 
 HTML5: Estrutura base.
 
